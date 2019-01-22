@@ -1,0 +1,16 @@
+Git + Github
+
+Basic Workflow:
+
+	do some changes to file
+
+	> git add -A # adds all changed files to index
+	> git commit -m "message" # commits all files in index
+
+	(working directory is now clean)
+
+Branches
+	> git branch # shows us available branches and active branch
+	> git checkout <branch name> # switch to branch
+
+	git checkout -b <new branch name>

@@ -1,2 +1,4 @@
 EJA Palapar
-hello
+Hello World!
+
+Today's lesson is about git and GitHub
